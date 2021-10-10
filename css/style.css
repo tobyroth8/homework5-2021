@@ -90,7 +90,7 @@ a:hover{
   border: 2px solid;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 750px){
 .container{
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
